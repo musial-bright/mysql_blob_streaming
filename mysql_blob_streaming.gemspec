@@ -1,6 +1,6 @@
 SPEC = Gem::Specification.new do |spec|
   spec.name = 'mysql_blob_streaming'
-  spec.version = "1.1.2"
+  spec.version = "1.2.0"
   spec.summary = 'A blob streaming extension for the native Ruby-MySQL (32 & 64bit) adapter'
   spec.author = 'Infopark AG'
   spec.homepage = 'http://www.infopark.de/'
